@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssarse",
+        "uuid": 27969204,
+        "checksum": "7bs2"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
